@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Новости</string>
+    <string name="breakingNews">Свежие новости</string>
+    <string name="savedNews">Сохраненные новости</string>
+    <string name="searchNews">Поиск новостей</string>
+    <string name="search">Поиск...</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News</string>
+    <string name="breakingNews">Breaking News</string>
+    <string name="savedNews">Saved News</string>
+    <string name="searchNews">Search News</string>
+    <string name="search">Search...</string>
+</resources>
